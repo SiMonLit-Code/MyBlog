@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc0c4d23-0218-4692-b35a-a928f60eaef9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../IOStream/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dfs/dfs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/leyou-gateway/leyou-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leyou/leyou.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOStream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IOStream/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOStream/out/production/IOStream/com/BufferReadTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IOStream/out/production/IOStream/com/BufferReadTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOStream/out/production/IOStream/com/FileOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IOStream/out/production/IOStream/com/FileOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOStream/out/production/IOStream/com/IoProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IOStream/out/production/IOStream/com/IoProperty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOStream/src/com/BufferReadTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IOStream/src/com/BufferReadTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOStream/src/com/FileOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IOStream/src/com/FileOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud2020/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud2020/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/controller/AssociationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/controller/AssociationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/controller/SpringController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/controller/SpringController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/dao/SpringDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/dao/SpringDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/entity/Spring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/entity/Spring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/service/Impl/SpringServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/service/Impl/SpringServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/service/SpringService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/service/SpringService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/DataJoinUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/DataJoinUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/FilePathUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/FilePathUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/HostIPv4Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/HostIPv4Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/QRCodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/QRCodeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/UrlPreUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/java/com/sign/utils/UrlPreUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/resources/templates/AdTicket.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/resources/templates/AdTicket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/resources/templates/bar/bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/resources/templates/bar/bar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sign/src/main/resources/templates/emp/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sign/src/main/resources/templates/emp/add.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - blog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\ApacheMaven\maven-repository" />
+        <option name="mavenHome" value="D:/ApacheMaven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\ApacheMaven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dRGktUsNOYaVIZSBbEi87UfDRZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL&#10;MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.49947312" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\blog\src\main\resources\static\images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/i18n" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lrm.web" />
+      <recent name="com.lrm.web.admin" />
+      <recent name="com.lrm.service" />
+      <recent name="com.lrm.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\blog\src\main\resources\static\images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApplication">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.czz.util.MD5Utils" />
+      <module name="blog" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czz.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BlogApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.czz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.czz" />
+      <option name="MAIN_CLASS_NAME" value="com.czz.BlogApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.czz.BlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MD5Utils" />
+      <item itemvalue="JUnit.BlogApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.BlogApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlogApplicationTests.contextLoads" />
+        <item itemvalue="Application.MD5Utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0c4d23-0218-4692-b35a-a928f60eaef9" name="Default" comment="" />
+      <created>1507866632037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507866632037</updated>
+      <workItem from="1507866633768" duration="7528000" />
+      <workItem from="1507897581948" duration="2752000" />
+      <workItem from="1507940788489" duration="6639000" />
+      <workItem from="1508031963373" duration="6760000" />
+      <workItem from="1508112413260" duration="12050000" />
+      <workItem from="1508208344164" duration="4335000" />
+      <workItem from="1508376754285" duration="729000" />
+      <workItem from="1508463272338" duration="16744000" />
+      <workItem from="1508576473343" duration="7243000" />
+      <workItem from="1508643113873" duration="14985000" />
+      <workItem from="1508718188014" duration="19246000" />
+      <workItem from="1508807261751" duration="11836000" />
+      <workItem from="1508888632129" duration="11387000" />
+      <workItem from="1508930791069" duration="1871000" />
+      <workItem from="1508978521621" duration="1407000" />
+      <workItem from="1509017244941" duration="504000" />
+      <workItem from="1509580168354" duration="1037000" />
+      <workItem from="1511423824017" duration="244000" />
+      <workItem from="1511424241158" duration="227000" />
+      <workItem from="1512292279887" duration="405000" />
+      <workItem from="1512354751596" duration="356000" />
+      <workItem from="1512356467709" duration="3732000" />
+      <workItem from="1512437358156" duration="262000" />
+      <workItem from="1512441752989" duration="995000" />
+      <workItem from="1513319246265" duration="1130000" />
+      <workItem from="1513405989111" duration="1932000" />
+      <workItem from="1513474120264" duration="20000" />
+      <workItem from="1513563201688" duration="102000" />
+      <workItem from="1514418425125" duration="965000" />
+      <workItem from="1514426313029" duration="641000" />
+      <workItem from="1514471551725" duration="241000" />
+      <workItem from="1514513051046" duration="270000" />
+      <workItem from="1514515019486" duration="775000" />
+      <workItem from="1514554513485" duration="208000" />
+      <workItem from="1514976117497" duration="1045000" />
+      <workItem from="1515228673810" duration="412000" />
+      <workItem from="1515398421961" duration="17332000" />
+      <workItem from="1515852772238" duration="571000" />
+      <workItem from="1516283947319" duration="550000" />
+      <workItem from="1516525311085" duration="556000" />
+      <workItem from="1516629351725" duration="657000" />
+      <workItem from="1516630420109" duration="4000" />
+      <workItem from="1516702394811" duration="915000" />
+      <workItem from="1516709333643" duration="300000" />
+      <workItem from="1516941416279" duration="806000" />
+      <workItem from="1516965420861" duration="6000" />
+      <workItem from="1517191198759" duration="398000" />
+      <workItem from="1517402336029" duration="130000" />
+      <workItem from="1517991546607" duration="922000" />
+      <workItem from="1519345836289" duration="182000" />
+      <workItem from="1519372395871" duration="1756000" />
+      <workItem from="1519378288910" duration="1975000" />
+      <workItem from="1519788319061" duration="641000" />
+      <workItem from="1519800245148" duration="245000" />
+      <workItem from="1520605582723" duration="12000" />
+      <workItem from="1521690207449" duration="46000" />
+      <workItem from="1521723675692" duration="348000" />
+      <workItem from="1522844033852" duration="841000" />
+      <workItem from="1522929448480" duration="4000" />
+      <workItem from="1523023274531" duration="1401000" />
+      <workItem from="1523063941048" duration="1000" />
+      <workItem from="1523328107269" duration="609000" />
+      <workItem from="1523435978322" duration="430000" />
+      <workItem from="1524148023600" duration="710000" />
+      <workItem from="1524662421735" duration="602000" />
+      <workItem from="1524893653899" duration="3773000" />
+      <workItem from="1592380643230" duration="3152000" />
+      <workItem from="1592465517490" duration="5419000" />
+      <workItem from="1592471789687" duration="366000" />
+      <workItem from="1592524880988" duration="37000" />
+      <workItem from="1592637298926" duration="2884000" />
+      <workItem from="1592641138873" duration="826000" />
+      <workItem from="1594194977441" duration="275000" />
+      <workItem from="1594195587746" duration="648000" />
+      <workItem from="1594199144664" duration="12354000" />
+      <workItem from="1594256612182" duration="3140000" />
+      <workItem from="1594305480208" duration="1859000" />
+      <workItem from="1594346689574" duration="1245000" />
+      <workItem from="1594476398579" duration="394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 11h 15m 55s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 11h 56m 24s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 11h 59m 20s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 00m 13s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 01m 59s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 02m 59s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 05m 09s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 08m 43s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 12m 08s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlogApplicationTests_contextLoads - 2017.12.04 at 12h 13m 58s.xml">
+      <configuration name="BlogApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592382875171">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592382875171" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594213593656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594213593656" />
+    <state x="349" y="246" key="FileChooserDialogImpl" timestamp="1594199215319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="246" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594199215319" />
+    <state x="422" y="323" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1592640470417" />
+    <state width="1493" height="266" key="GridCell.Tab.0.bottom" timestamp="1594348542101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594348542101" />
+    <state width="888" height="111" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1592468467915" />
+    <state width="1493" height="266" key="GridCell.Tab.0.center" timestamp="1594348542100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594348542100" />
+    <state width="888" height="111" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1592468467914" />
+    <state width="1493" height="266" key="GridCell.Tab.0.left" timestamp="1594348542100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594348542100" />
+    <state width="888" height="111" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1592468467914" />
+    <state width="1493" height="266" key="GridCell.Tab.0.right" timestamp="1594348542100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594348542100" />
+    <state width="888" height="111" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1592468467914" />
+    <state width="1493" height="266" key="GridCell.Tab.1.bottom" timestamp="1594348542101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594348542101" />
+    <state width="888" height="111" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1592468467915" />
+    <state width="1493" height="266" key="GridCell.Tab.1.center" timestamp="1594348542101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594348542101" />
+    <state width="888" height="111" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1592468467915" />
+    <state width="1493" height="266" key="GridCell.Tab.1.left" timestamp="1594348542101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594348542101" />
+    <state width="888" height="111" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1592468467915" />
+    <state width="1493" height="266" key="GridCell.Tab.1.right" timestamp="1594348542101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594348542101" />
+    <state width="888" height="111" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1592468467915" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1594195604952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1594195604952" />
+    <state x="147" y="115" key="SettingsEditor" timestamp="1594199217892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594199217892" />
+    <state x="178" y="186" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1592637763744" />
+    <state x="811" y="329" width="343" height="422" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1592382802101">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="811" y="329" width="343" height="422" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1858.1080@0.0.1858.1080" timestamp="1592382802101" />
+    <state x="127" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1592524890204">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="127" y="380" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592524890204" />
+    <state x="37" y="147" width="877" height="830" key="dock-window-1" timestamp="1592467168308">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="37" y="147" width="877" height="830" key="dock-window-1/0.0.1858.1080@0.0.1858.1080" timestamp="1592467168308" />
+    <state x="0" y="66" key="new project wizard" timestamp="1592640101540">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="0" y="66" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1592640101540" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1594257952107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1594257952107" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594258145999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594258145999" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
